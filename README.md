@@ -1,7 +1,12 @@
-<p align="left"># 👋 Hi, I’m [Md. Khalil ](https://www.linkedin.com/in/mdkhalilofficial)  <br>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo](https://media.licdn.com/dms/image/v2/D5616AQFqwUYKkpCmeg/profile-displaybackgroundimage-shrink_350_1400/B56ZUzAaN6GsAY-/0/1740317506058?e=1746057600&v=beta&t=nLN_iTURSTvwtZH5PwZiVmZVlzBhKVg3gkqbqhV1hNo)" />
+<p align="center"># 👋 Hi, I’m [Md. Khalil ]  <br>
 ### 🚀 ProDevMaster | Web Developer | Graphic Designer | Video Editing Expert  <br><br>I am a passionate **Web Developer, UI/UX Designer, Graphic Designer, and Digital Marketer** with **5+ years of experience** in creating modern, functional, and visually appealing designs. I love solving problems and bringing innovative ideas to life through clean and efficient coding.<br><br>---<br><br>## 👀 What I’m Interested In  <br>- 🚀 **Full-Stack Web Development** (HTML, CSS, JavaScript, PHP, WordPress)  <br>- 🎨 **Creative Graphic Design** (Branding, UI/UX, Logo, Print, Social Media)  <br>- 🎬 **Video Editing & Motion Graphics**  <br>- 📈 **SEO & Digital Marketing**  <br>- 🔐 **Cybersecurity & Web Security**  <br><br>---<br><br>## 🌱 Currently Learning  <br>- 📚 Advanced **React.js & Next.js**  <br>- ⚡ Enhancing skills in **AI & Automation**  <br>- 🎨 Mastering **Figma & Adobe XD for UI/UX**  <br><br>---<br><br>## 💼 Let’s Collaborate  <br>I’m open to working on exciting projects, collaborating with developers, designers, and entrepreneurs. Whether it’s a **website, branding project, or creative design**, let’s make something **amazing** together!  <br><br>---<br><br>## 📫 How to Reach Me  <br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mdkhalilofficial)  <br>- 🎨 [Behance](https://www.behance.net/ChoiceStock)  <br>- 🌐 [Portfolio](https://piximagency.com)  <br>- 📧 Email: **ContactMdKhalil@gmail.com**  <br><br>---<br><br>## 😄 Fun Fact  <br>🔹 I love **exploring new technologies** and **solving real-world problems** through design & development.  <br>🔹 When I'm not coding, you’ll find me **editing videos, designing graphics, or brainstorming creative business ideas!**  <br><br>---<br><br>**🚀 Let’s Build Something Amazing Together!**</p>
 
-###
+
+  >
+
+
+<div align="left">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
