@@ -1,45 +1,77 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFqwUYKkpCmeg/profile-displaybackgroundimage-shrink_350_1400/B56ZUzAaN6GsAY-/0/1740317506058?e=1746057600&v=beta&t=nLN_iTURSTvwtZH5PwZiVmZVlzBhKVg3gkqbqhV1hNo">
-<h1 align="center">Hi 👋, I'm  MD KHALIL</h1> <br>
-### 🚀 ProDevMaster | Web Developer | Graphic Designer | Video Editing Expert  <br><br>I am a passionate **Web Developer, UI/UX Designer, Graphic Designer, and Digital Marketer** with **5+ years of experience** in creating modern, functional, and visually appealing designs. I love solving problems and bringing innovative ideas to life through clean and efficient coding.<br><br>---<br><br>## 👀 What I’m Interested In  <br>- 🚀 **Full-Stack Web Development** (HTML, CSS, JavaScript, PHP, WordPress)  <br>- 🎨 **Creative Graphic Design** (Branding, UI/UX, Logo, Print, Social Media)  <br>- 🎬 **Video Editing & Motion Graphics**  <br>- 📈 **SEO & Digital Marketing**  <br>- 🔐 **Cybersecurity & Web Security**  <br><br>---<br><br>## 🌱 Currently Learning  <br>- 📚 Advanced **React.js & Next.js**  <br>- ⚡ Enhancing skills in **AI & Automation**  <br>- 🎨 Mastering **Figma & Adobe XD for UI/UX**  <br><br>---<br><br>## 💼 Let’s Collaborate  <br>I’m open to working on exciting projects, collaborating with developers, designers, and entrepreneurs. Whether it’s a **website, branding project, or creative design**, let’s make something **amazing** together!  <br><br>---<br><br>## 📫 How to Reach Me  <br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mdkhalilofficial)  <br>- 🎨 [Behance](https://www.behance.net/ChoiceStock)  <br>- 🌐 [Portfolio](https://piximagency.com)  <br>- 📧 Email: **ContactMdKhalil@gmail.com**  <br><br>---<br><br>## 😄 Fun Fact  <br>🔹 I love **exploring new technologies** and **solving real-world problems** through design & development.  <br>🔹 When I'm not coding, you’ll find me **editing videos, designing graphics, or brainstorming creative business ideas!**  <br><br>---<br><br>**🚀 Let’s Build Something Amazing Together!**</p>
+<h1 align="center"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/3065/3065886.png" width="40"/> 
+  Hi there, I’m <strong>Md. Khalil Ahmad</strong> 🚀 | <i>ProDevMaster</i>
+</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀 Web Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎨 Graphic Designer-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎬 Video Editing Expert-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📈 Digital Marketer-purple?style=for-the-badge">
+</p>
 
-  >
+---
 
+### **📌 About Me**  
+👋 Welcome! I am a **Creative Web Developer, UI/UX Designer, Graphic Designer, and Digital Marketer** with over **5 years of experience**. I love **building visually appealing websites, designing stunning graphics, and editing high-quality videos** that help brands stand out.  
 
-<div align="left">
+- 🚀 **Expert in:** Full-Stack Web Development, Graphic Design, Branding, UI/UX  
+- 🔥 **Passionate about:** Solving problems through technology & creative thinking  
+- 💡 **Creative Mindset:** Turning ideas into reality with sleek designs & smart coding  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+### **💻 Technologies & Tools I Use**  
+**Frontend:**  
+🔹 HTML5 | CSS3 | JavaScript (ES6+) | Bootstrap | TailwindCSS | React.js | Next.js  
 
-###
+**Backend & CMS:**  
+🔹 PHP | WordPress | Laravel | Node.js | Firebase  
+
+**UI/UX & Graphics:**  
+🔹 Adobe Photoshop | Illustrator | Figma | Canva | Adobe XD  
+
+**Video Editing & Motion Graphics:**  
+🔹 Adobe Premiere Pro | After Effects | DaVinci Resolve  
+
+**Marketing & SEO:**  
+🔹 Google SEO | Facebook Ads | YouTube Marketing | Email Automation  
+
+---
+
+### **🌱 Currently Learning & Improving**  
+- 📌 Advanced **React.js, Next.js, and Web Animations**  
+- ⚡ **AI & Automation** (Chatbots, AI-generated design)  
+- 🚀 **Scaling Digital Marketing Campaigns**  
+- 🔐 **Cybersecurity & Web Security Best Practices**  
+
+---
+
+### **📈 My GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProDevMaster&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProDevMaster&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### **📩 How to Reach Me**  
+📌 **Website:** [PiximAgency](https://piximagency.com)  
+🔗 **LinkedIn:** [Md. Khalil Ahmad](https://www.linkedin.com/in/mdkhalilofficial)  
+🎨 **Behance:** [Portfolio](https://www.behance.net/ChoiceStock)  
+📧 **Email:** mdkhalilofficial@gmail.com  
+📱 **WhatsApp:** [+8801718202950](https://wa.me/8801718202950)  
+
+---
+
+### **😄 Fun Facts About Me**  
+- 🔥 I love **creating unique brand identities & web solutions**  
+- 🎯 Passionate about **problem-solving & innovative design**  
+- 🎵 Music fuels my **coding & designing sessions**  
+- 🚀 Always looking for **challenging projects & collaborations**  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=06CD9A&center=true&vCenter=true&multiline=true&width=600&height=50&lines=🚀+Let's+Build+Something+Awesome!+✨">
+</p>
