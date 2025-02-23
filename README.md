@@ -1,7 +1,5 @@
-<h1 align="center"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/3065/3065886.png" width="40"/> 
-  Hi there, I’m <strong>Md. Khalil Ahmad</strong> 🚀 | <i>ProDevMaster</i>
-</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFqwUYKkpCmeg/profile-displaybackgroundimage-shrink_350_1400/B56ZUzAaN6GsAY-/0/1740317506058?e=1746057600&v=beta&t=nLN_iTURSTvwtZH5PwZiVmZVlzBhKVg3gkqbqhV1hNo">
+<h1 align="center">Hi 👋, I'm  MD KHALIL</h1> <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀 Web Developer-blue?style=for-the-badge">
